@@ -1,4 +1,6 @@
-### Hi there 👋
+<div align="center">
+  <img alt="GIF" src="https://media.tenor.com/m3mKtgirABgAAAAC/muppet-kermit-the-frog.gif" />
+<div>
 
 <!--
 **rileywong311/rileywong311** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
