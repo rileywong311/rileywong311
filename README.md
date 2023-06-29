@@ -4,7 +4,7 @@
 
 <hr/>
 
-<h1> > About Me </h1>
+<h1> >>> About Me </h1>
 
 ```js
 // Hi there 👋. 
@@ -13,15 +13,15 @@ const AboutMe = () => {
   return [
     "I’m Riley, a Sophomore computer science student at Santa Clara University.",
     "My passion for programming began in middle school when I first discovered MIT Scratch."
-    "At the time, I didn't even know what a functon was, but I made my 1000 lines of repeated code work...",
-    "Now, I enjoy learning new technologies from REST API's to circuits!",
-    "In my free time, I’ll be found playing tennis, rendering a new 3D project in Blender,", 
-    "or practicing a new finger-style song on the acoustic guitar."
+    "At the time, I didn't even know what a function was, but I resolutely made my 1000 lines of repeated code work...",
+    "Today, I thrive on continually progressing my knowledge as I learn new technologies from REST API's to circuits!",
+    "In my spare time, I’ll be found playing tennis, rendering a new 3D project using Blender,", 
+    "or practicing finger-style on the acoustic guitar."
   ]
 }
 ```
 
-<h1> > Technologies </h1>    
+<h1> >>> Technologies </h1>    
 <div align="left">
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="50"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="CPP" alt="CPP" width="50"/>
@@ -38,7 +38,7 @@ const AboutMe = () => {
   <img src="https://github.com/devicons/devicon/blob/master/icons/qt/qt-original.svg" title="QT" alt="QT" width="50"/>
 </div>
    
-<h1> > Contact </h1>
+<h1> >>> Contact </h1>
 Feel free to connect with me below:
 <br/>
 <br/>
