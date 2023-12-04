@@ -11,12 +11,15 @@
 
 const AboutMe = () => {
   return [
-    "I’m Riley, a Sophomore computer science student at Santa Clara University.",
-    "My passion for programming began in middle school when I first discovered MIT Scratch."
-    "At the time, I didn't even know what a function was, but I resolutely made my 1000 lines of repeated code work...",
-    "Today, I thrive on continually progressing my knowledge as I learn new technologies from REST API's to circuits!",
-    "In my spare time, I’ll be found playing tennis, rendering a new 3D project using Blender,", 
-    "or practicing finger-style on the acoustic guitar."
+    "I am a student at Santa Clara University majoring in computer science and minoring in mathematics.",
+    "I am committed to fostering independence, communication, and the opportunity to learn from others as I",
+    "continue expanding my expertise in software engineering.",
+    "I am passionate about exploring diverse opportunities and industries, bridging the gap between novel",
+    "domains with a shared emphasis on technology whilst informing the future of my professional career.",
+    "My interests in software engineering include honing full-stack software development, web development, and",
+    "✨open-source contribution.✨",
+    "In my free time, I’ll be found playing tennis, rendering a new 3D project in Blender, or practicing", 
+    "fingerstyle songs on the acoustic guitar."
   ]
 }
 ```
